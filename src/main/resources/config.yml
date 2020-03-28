@@ -1,0 +1,17 @@
+database:
+  host: localhost
+  database-name: HubPlugin
+motd: 'motd message'
+allow-mobs: false
+spawn-radius-region:
+spawn-location: ""
+corner1-location: ""
+corner2-location: ""
+network-information-pages: []
+announcer-interval: 600
+announcer-messages:
+  '1':
+    message:
+    - '&7[&e!&7] &6If you are lucky you may find a &6few gold nuggets &6from &6the &6stone &6you mine!'
+    - ''
+    - 'A new line'
